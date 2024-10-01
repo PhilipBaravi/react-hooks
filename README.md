@@ -29,7 +29,7 @@ Welcome to **React Hooks Explorer** – an interactive project designed to help 
 
 ## 🌐 Live Demo
 
-Check out the live version of the project [here](https://philipbaravi.github.io/usestate/description) and start exploring React hooks today! 🎉
+Check out the live version of the project [Live Demo](https://philipbaravi.github.io/react-hooks/) and start exploring React hooks today! 🎉
 
 ## ⭐ Contribute
 
